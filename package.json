@@ -1,0 +1,23 @@
+{
+  "name": "amazon-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mengqi89/amazon-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mengqi89/amazon-scraping/issues"
+  },
+  "homepage": "https://github.com/Mengqi89/amazon-scraping#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
